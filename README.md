@@ -19,6 +19,10 @@ Este projeto consiste em um programa desenvolvido em Arduino que cria e manipula
 - Botões conectados nas portas de saída digital 2, 3 e 4
 - Memória EEPROM para armazenamento dos dados
 
+## Circuito
+
+<img src="https://media.discordapp.net/attachments/1112460925547581622/1142853978988740669/image.png?width=737&height=554" />
+
 ### Estrutura do Código
 
 O código é organizado da seguinte maneira:
