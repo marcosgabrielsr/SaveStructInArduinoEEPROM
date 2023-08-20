@@ -3,7 +3,7 @@
 
 ### Descrição do Projeto
 
-Este projeto consiste em um programa desenvolvido em Arduino que cria e manipula uma estrutura de dados chamada `Dados`, gerando informações aleatórias e permitindo a exibição e armazenamento desses dados. O programa utiliza botões para interagir com as diferentes funcionalidades.
+Este projeto consiste em um programa desenvolvido em Arduino que cria e manipula uma estrutura de dados chamada `Dados`, gerando informações aleatórias e permitindo a exibição e armazenamento desses dados. O programa utiliza botões para interagir com as diferentes funcionalidades. Este projeto foi desenvolvido na IDE Platform IO, entretanto pode ser compilado e carregado em uma placa por meio da Arduino IDE, bastando apenas copiar o código do arquivo main e cola-lá em um arquvio .ino.
 
 ### Funcionalidades Principais
 
